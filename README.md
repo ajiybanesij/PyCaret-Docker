@@ -1,2 +1,2 @@
 # PyCaret-Docker
-PyCaret Dockerfile 
+PyCaret Dockerfile for version 2.2.0 
